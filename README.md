@@ -1,4 +1,4 @@
-# RealStoreProject_JSP
+# RealStor-JSP
 
 RealStore is an **e-commerce management system** built with **Spring Boot** and **JSPs**, designed to provide a complete web-based solution for managing categories, products, users, carts, and orders. This version includes **JSP-based frontend UI**.
 
@@ -44,4 +44,4 @@ RealStore is an **e-commerce management system** built with **Spring Boot** and 
 - Integrate a payment gateway.
 
 ## Author
-[Your Name](https://github.com/shaikirfan2349)
+[Irfan Shaik](https://github.com/shaikirfan2349)
